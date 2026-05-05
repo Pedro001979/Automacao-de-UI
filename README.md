@@ -1,4 +1,4 @@
-# Automação de UI - ATD MOD22
+# Automação de UI
 
 Framework de automação de testes para interface de usuário utilizando Cypress como base para validação de cenários críticos em aplicações web.
 
